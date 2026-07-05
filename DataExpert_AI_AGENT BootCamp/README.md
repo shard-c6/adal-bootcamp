@@ -1,1 +1,0 @@
-##This is the ADAL AI Agent bootcamp 
